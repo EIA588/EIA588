@@ -136,37 +136,6 @@ The dataset contains employee-related information including:
 
 ![Dashboard Screenshot](https://github.com/EIA588/EIA588/blob/main/Dashboard.png)
 
-### Workforce Overview
-
-![Workforce Overview](images/workforce_overview.png)
-
-### Attrition Analysis
-
-![Attrition Analysis](images/attrition_analysis.png)
-
----
-
-## 📁 Project Structure
-
-```text
-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│   └── HR_Dataset.xlsx
-│
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.xlsx
-│
-├── Images/
-│   ├── dashboard.png
-│   ├── workforce_overview.png
-│   └── attrition_analysis.png
-│
-├── README.md
-│
-└── Insights.md
-```
-
 ---
 
 ## 🔍 Key Insights Generated
