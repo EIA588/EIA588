@@ -134,7 +134,7 @@ The dataset contains employee-related information including:
 
 ### Main Dashboard
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/EIA588/EIA588/blob/main/Dashboard.png)
 
 ### Workforce Overview
 
